@@ -25,7 +25,7 @@ def read_data_from_folder(folder):
     """
 
     :param folder: string: data_folder
-    :return: list ( file ) of list ( page ) ( b/c pdf file may contain more than 1 page )
+    :return: list ( file ) of lists ( page ) ( b/c pdf file may contain more than 1 page )
     """
 
     data = []

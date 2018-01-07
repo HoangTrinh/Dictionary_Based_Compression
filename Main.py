@@ -16,9 +16,9 @@ for origins in data:
         print('original data: ', origin)
 
         # compress + convenience purpose
-        compressed_data,print_compress_data = LZW.encode(origin, take_list=True)
+        compressed_data, print_compress_data = LZW.encode(origin, take_list=True)
 
-        print('compressed_data: ',  print_compress_data)
+        print('compressed_data: ', print_compress_data)
 
         # calculate compression ratio per page
         compression_ratio = support_functions.calculate_compress_ratio(origin, compressed_data)

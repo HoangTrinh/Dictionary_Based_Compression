@@ -1,5 +1,3 @@
-import string
-
 def encode(origin, take_list = False ):
     """
 
