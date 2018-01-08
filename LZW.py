@@ -1,11 +1,11 @@
-def encode(origin, take_list = False ):
+def encode(origin, take_list=False):
     """
 
     :param origin: string
     :param take_list: Boolean
     :return: output 2 type ( integer generator, list of integer) if take_list = True else output integer generator
     """
-    #create dictionary with 256 ASCII code
+    # create dictionary with 256 ASCII code
     dictionary_size = 256
     dictionary = {chr(i): i for i in range(dictionary_size)}
 
@@ -24,47 +24,35 @@ def encode(origin, take_list = False ):
     if s:
         compressed_data.append(dictionary[s])
 
-    # make sure output as separated integer ( list is wasted type of storage in this case )
-    if take_list:
-        list_compressed_data = compressed_data
-        compressed_data = (int(element) for element in compressed_data)
-        return compressed_data, list_compressed_data
-    else:
-        compressed_data = (int(element) for element in compressed_data)
-
-
     return compressed_data
-
 
 
 def decode(compressed_data):
     """
 
-    :param compressed_data: have to be a list because of prefix problem
-    :return:
+    :param compressed_data: int generator
+    :return: decompresed_data
     """
 
     # create inverted dictionary with 256 ASCII code
     dictionary_size = 256
     dictionary = {i: chr(i) for i in range(dictionary_size)}
 
-    s = origin = ''
+    s = decompressed_data = ''
 
     for number in compressed_data:
         if number in dictionary:
             entry = dictionary[number]
 
-        #elif number == dictionary_size:
         else:
             entry = s + s[0]
-        origin += entry
+        decompressed_data += entry
 
         if s != '':
             dictionary[dictionary_size] = s + entry[0]
-            dictionary_size +=1
+            dictionary_size += 1
         s = entry
 
     # make sure output as string
-    origin = ''.join(str(e) for e in origin)
-    return origin
-
+    decompressed_data = ''.join(str(e) for e in decompressed_data)
+    return decompressed_data
