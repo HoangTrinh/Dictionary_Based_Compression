@@ -11,13 +11,12 @@ for origins in data:
 
     print('\nstart a new file:')
     # list of pages per file
+    sum_compression_ratio_of_pdf_file = 0
     for origin in origins:
-        sum_compression_ratio_of_pdf_file = 0
         print('original data: ', origin)
 
         # compress + convenience purpose
         compressed_data, print_compress_data = LZW.encode(origin, take_list=True)
-
         print('compressed_data: ', print_compress_data)
 
         # calculate compression ratio per page

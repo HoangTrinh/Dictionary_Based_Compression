@@ -17,7 +17,7 @@ def read_pdf_from_direct(pdf_direct):
     for page_index in range(number_of_pages):
         page = read_pdf.getPage(page_index)
         page_content = page.extractText()
-        origin.append(str(page_content.encode()))
+        origin.append(str(page_content.encode('ascii','ignore')))
 
     return origin
 
