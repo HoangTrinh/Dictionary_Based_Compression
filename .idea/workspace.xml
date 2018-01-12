@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33db99af-547f-4792-a35d-f2e73d7a8cbc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/LZW.py" afterPath="$PROJECT_DIR$/LZW.py" />
-      <change beforePath="$PROJECT_DIR$/Main.py" afterPath="$PROJECT_DIR$/Main.py" />
-      <change beforePath="$PROJECT_DIR$/data/origin_1.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_10.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_11.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_12.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_13.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_14.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_15.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_16.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_17.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_18.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_19.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_2.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_20.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_21.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_22.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_23.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_24.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_25.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_26.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_27.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_28.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_29.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_3.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_30.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_31.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_32.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_33.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_34.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_35.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_36.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_37.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_38.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_39.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_4.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_40.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_41.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_42.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_43.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_44.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_45.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_46.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_47.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_48.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_49.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_5.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_50.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_51.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_52.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_53.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_54.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_55.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_56.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_57.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_58.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_59.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_6.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_60.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_61.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_62.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_7.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_8.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/origin_9.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/support_functions.py" afterPath="$PROJECT_DIR$/support_functions.py" />
-    </list>
+    <list default="true" id="33db99af-547f-4792-a35d-f2e73d7a8cbc" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="170" />
     <option name="y" value="3" />
     <option name="width" value="941" />
@@ -316,13 +249,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1453125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
