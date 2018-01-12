@@ -1,4 +1,4 @@
-def encode(origin, take_list=False):
+def encode(origin):
     """
 
     :param origin: string
@@ -30,7 +30,7 @@ def encode(origin, take_list=False):
 def decode(compressed_data):
     """
 
-    :param compressed_data: int generator
+    :param compressed_data: integer list
     :return: decompresed_data
     """
 
